@@ -1,9 +1,11 @@
 body {
     background-color: #1D1637;
+    text-align: center;
     color: white;
     font-size: 25px;
 }
 
 #title {
+    text-align: left;
     font-size: 40px
 }
